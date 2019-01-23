@@ -12,7 +12,7 @@ In your `build.gradle`:
 
 ```gradle
  dependencies {
-   compile 'tyrantgit:explosionfield:1.0.1'
+   implementation 'com.github.shahzad2322:Delete:1.0'
  }
 ```
 
